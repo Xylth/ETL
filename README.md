@@ -1,7 +1,7 @@
 
 # Projet ETL 
 
-Ce projet permet de scrapper les données du site : http://books.toscrape.com/
+Ce projet permet de scraper les données du site : http://books.toscrape.com/
 
 
 
@@ -49,8 +49,8 @@ Python -m app
 ```
 
 ## Résultat
-Le résultat de l'éxécution se trouve dans le dossier exports à la racine du clone du repository dans le dossier "exports"
+Le résultat de l'exécution se trouve dans le dossier exports à la racine du clone du repository dans le dossier "exports"
 
-Les resultats sont séparés entre les dossiers "csv" et "img"
+Les résultats sont séparés entre les dossiers "csv" et "img"
 
-Dans "csv" on a un fichier par catégorie et dans "img" on a un dossier par catégorie. Chaques images de livre est nommée par son UPC.
+Dans "csv" on a un fichier par catégorie et dans "img" on a un dossier par catégorie. Chaque image de livre est nommée par son UPC.

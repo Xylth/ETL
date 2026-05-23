@@ -9,7 +9,6 @@ def book_info_reworker(book):
     book["review_rating"] = getRating(book["review_rating"])
     book["image_url"]= HOME_URL+book["image_url"].replace("../","")
     
-    return book
 
 #rework of the prices
 def getPrice(data):
